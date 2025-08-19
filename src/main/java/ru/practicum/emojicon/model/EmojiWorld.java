@@ -109,6 +109,7 @@ public class EmojiWorld extends EmojiObject implements EntityResolver, EmojiObje
 
                 }
         });
+
     }
 
     @Override
